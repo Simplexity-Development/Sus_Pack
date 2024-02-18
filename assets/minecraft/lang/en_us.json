@@ -2,5 +2,6 @@
   "subtitles.item.brush.brushing.sand": "Sussing out Sand",
   "subtitles.item.brush.brushing.gravel": "Sussing out Gravel",
   "subtitles.item.brush.brushing.sand.complete": "Sand was an Imposter",
-  "subtitles.item.brush.brushing.gravel.complete": "Gravel was an Imposter"
+  "subtitles.item.brush.brushing.gravel.complete": "Gravel was an Imposter",
+  "subtitles.entity.player.freeze_hurt": "Imposter Snow sabotages"
 }
