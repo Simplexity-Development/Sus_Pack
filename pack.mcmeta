@@ -2,6 +2,6 @@
   "pack": {
     "pack_format": 18,
     "description": "suspicious",
-    "supported_formats": {"min_inclusive": 18, "max_inclusive": 26}
+    "supported_formats": {"min_inclusive": 18, "max_inclusive": 55}
   }
 }
